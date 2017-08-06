@@ -1,8 +1,12 @@
 # config.json file
 config.json
 
-#db file
+# Old DB files
 lastfm_users.json
+used_jokes.json
+
+# DB file
+database.json
 
 # Logs
 logs
